@@ -27,17 +27,5 @@
         text-align: center;
     }
 
-    .date {
-        cursor: pointer;
-        width: 40%;
-    }
 
-    .Aswers {
-        padding-top: 20px;
-        padding-bottom: 0px;
-    }
-
-    .number {
-        width: 40%;
-    }
 }
